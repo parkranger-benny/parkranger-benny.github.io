@@ -1,0 +1,97 @@
+body{
+    background-image: url("/bgimages/background1.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+#tree1 > img 
+    {position: absolute;
+    top: 50px;
+    left: 15px}
+
+#tree2 > img 
+    {position: absolute; 
+    top: 325px;
+    right: 50px}
+
+#tree3 > img 
+    {position: absolute;
+    top: 15px;
+    left: 300px}
+
+#tree4 > img 
+    {position: absolute;
+    top: 500px;
+    left: 700px}
+
+#tree5 > img 
+    {position: absolute;
+    top: 50px;
+    left: 850px}
+
+#tree6 > img 
+    {position: absolute;
+    top: 200px;
+    left: 35px}
+
+#tree7 > img 
+    {position: absolute;
+    top: 100px;
+    left: 150px}
+
+#tree8 > img 
+    {position: absolute;
+    top: 50px;
+    right: 100px}
+
+#tree9
+    {position: absolute;
+        top: 450px;
+        left: 500px}
+
+#tree10 > img 
+    {position: absolute;
+    top: 275px;
+    right: 300px}
+
+#tree11 > img 
+    {position: absolute;
+    top: 500px;
+    left: 300px}
+
+#button1 > img 
+    {position: absolute;
+    top: 25px;
+    left: 525px}
+
+#button2
+    {position: absolute;
+    top: 350px;
+    left: 700px}
+
+#button3 
+    {position: absolute;
+    top: 450px;
+    left: 275px}
+
+#button4  
+    {position: absolute;
+    top: 350px;
+    left: 375px}
+
+#button5 
+    {position: absolute;
+    top: 580px;
+    left: 85px}
+
+#button6 
+    {position: absolute;
+    top: 600px;
+    right: 100px;}
+
+#button7 
+    {position: absolute;
+    top: 525px;
+    right: 350px}

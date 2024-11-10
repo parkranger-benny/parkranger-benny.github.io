@@ -1,0 +1,34 @@
+body{
+    background-color: #6a8a99;
+}
+
+h1{ color: #3e2014;
+    font-family : "Roboto Serif", "Serif"; 
+    font-size: 36px;
+    background-color : #e6ead6;
+    border-style: dashed;
+    border-width: 5px;
+    padding: 10px;
+    text-align: center;
+}
+
+h2{ color: #3e2014;
+    font-family : "Roboto Serif", "Serif"; 
+}
+
+h3{ color: #3e2014;
+    font-family : "Roboto Serif", "Serif"; 
+}
+
+h4{ color: #3e2014;
+    font-family : "Roboto Serif", "Serif"; 
+}
+
+h5{ color: #3e2014;
+    font-family : "Roboto Serif", "Serif"; 
+}
+
+p{  color: #3e2014;
+    font-family : "Roboto Serif", "Serif"; 
+    font-size: 24px;
+}
